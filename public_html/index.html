@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Capture Korea project :: Milestone 7.1 & 7.2 NPR</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+    </head>
+    <body onload="webGLMain()">
+        
+        
+        <table>
+            <!--
+            <tr>
+                <td>
+                    <b>N</b>on <b>p</b>hoto-realistic <b>R</b>endering
+                </td>
+            </tr>
+            -->
+            <tr>
+                <td>
+                    <canvas id="webgl" width="512" height="512">
+                        Please use a browser that supports "canvas"
+                    </canvas>
+                </td>
+                <!--
+                <td>
+                    <form>
+                    <input type="radio" id="normalShader"           name="NPRcheck" onclick="radioCheck()" checked="true"/>Display <span style = "color:red"> Photorealistic</span> <br>
+                    <input type="radio" id="hatchingShader"         name="NPRcheck" onclick="radioCheck()" />Display <span style = "color:red"> Hatching</span> <br>
+                    <input type="radio" id="cartoonShader"          name="NPRcheck" onclick="radioCheck()" />Display <span style = "color:red"> Cartoon</span> <br>
+                    <input type="radio" id="sLODexample"       name="NPRcheck" onclick="radioCheck()" />Display <span style = "color:red"> semantic LOD example</span> <br>
+                    <input type="radio" id="hatching_cartoonShader" name="NPRcheck" onclick="radioCheck()" />Display <span style = "color:red"> Hatching & Cartoon</span> <br>
+                    </form>
+                    <br> <br>
+                    &nbsp; Keyboard manual <br><br>
+                    &nbsp; &nbsp; <b>W</b> : Camera go up <br>
+                    &nbsp; &nbsp; <b>S</b> : Camera go down <br>
+                    &nbsp; &nbsp; <b>A</b> : Camera go left <br>
+                    &nbsp; &nbsp; <b>D</b> : Camera go right <br>
+                    &nbsp; &nbsp; <b>Q</b> : Camera go forward <br>
+                    &nbsp; &nbsp; <b>E</b> : Camera go backward <br>
+                    <br>
+                    &nbsp; &nbsp; <b>L</b> : Light on/ off <br>
+                    
+                    <br>
+                    &nbsp; This Browser is optimized for <b>512 * 512</b>, <br>
+                    &nbsp; <b>Chrome</b> ver. <b>36.0.1985.125 m</b>
+                </td>
+                -->
+            </tr>
+        </table>
+        
+        <script src="Include/webgl-debug.js"></script>
+        <script src="Include/cuon-matrix.js"></script>
+        <script src="Include/Stats.js"></script>
+        
+        <script src="Algebra/Vector.js"></script>
+        <script src="Algebra/Matrix.js"></script>
+
+        <script src="Loader/FileRead.js"></script>
+        <script src="Loader/GroupFace.js"></script>
+        <script src="Loader/MTL.js"></script>
+        <script src="Loader/ObjLoader.js"></script>
+        <script src="Loader/StringParser.js"></script>
+
+        <script src="Render/Model.js"></script>
+        <script src="Render/SubMesh.js"></script>
+        
+        <script src="Render/TextureLoader.js"></script>
+        <script src="Render/Shader.js"></script>
+        <script src="Render/Camera.js"></script>
+        <script src="Render/HatchingTextureSet.js"></script>
+
+        <script src="Render/Renderer.js"></script>
+        
+        <script src="Interface/RadioInterface.js"></script>
+        <script src="Interface/MouseMove.js"></script>
+        <script src="Interface/FPS.js"></script>
+        
+        <script src="WebGLMain.js"></script>
+    </body>
+</html>

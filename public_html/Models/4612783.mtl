@@ -1,0 +1,229 @@
+# Converted by Daum Communications 
+# Date/time of export: 08/22/2013 14:53:48
+#
+# Bounding box of geometry = (202348,444601,-1.93115) to (202366,444619,35.9325).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl surface
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_1.jpg
+
+newmtl surface__10
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_15.jpg
+
+newmtl surface__11
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_18.jpg
+
+newmtl surface__12
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_20.jpg
+
+newmtl surface__13
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_21.jpg
+
+newmtl surface__14
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_22.jpg
+
+newmtl surface__15
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_24.jpg
+
+newmtl surface__16
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_26.jpg
+
+newmtl surface__17
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_27.jpg
+
+newmtl surface__18
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_28.jpg
+
+newmtl surface__19
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_29.jpg
+
+newmtl surface__2
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_7.jpg
+
+newmtl surface__20
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_30.jpg
+
+newmtl surface__21
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_32.jpg
+
+newmtl surface__22
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_34.jpg
+
+newmtl surface__23
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_35.jpg
+
+newmtl surface__24
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_36.jpg
+
+newmtl surface__3
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_3.jpg
+
+newmtl surface__4
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_17.jpg
+
+newmtl surface__5
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_6.jpg
+
+newmtl surface__6
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_8.jpg
+
+newmtl surface__7
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_9.jpg
+
+newmtl surface__8
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_12.jpg
+
+newmtl surface__9
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4612783_texture/Surface_14.jpg
+

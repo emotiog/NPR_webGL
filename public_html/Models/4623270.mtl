@@ -1,0 +1,112 @@
+# Converted by Daum Communications 
+# Date/time of export: 08/22/2013 14:53:49
+#
+# Bounding box of geometry = (201923,445719,-0.878749) to (201952,445739,44.3077).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl surface
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4623270_texture/Surface_34.jpg
+
+newmtl surface__10
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4623270_texture/Surface_94.jpg
+
+newmtl surface__11
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4623270_texture/Surface_91.jpg
+
+newmtl surface__2
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4623270_texture/Surface_32.jpg
+
+newmtl surface__3
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4623270_texture/Surface_83.jpg
+
+newmtl surface__4
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4623270_texture/Surface_84.jpg
+
+newmtl surface__5
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4623270_texture/Surface_85.jpg
+
+newmtl surface__6
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4623270_texture/Surface_86.jpg
+
+newmtl surface__7
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4623270_texture/Surface_88.jpg
+
+newmtl surface__8
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4623270_texture/Surface_92.jpg
+
+newmtl surface__9
+	Ns 25
+	d 1
+	illum 2
+	Kd 1 1 1
+	Ks 0 0 0
+	Ka 0.2 0.2 0.2
+	map_Kd 4623270_texture/Surface_93.jpg
+

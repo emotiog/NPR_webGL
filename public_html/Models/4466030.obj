@@ -1,0 +1,139 @@
+# Converted by Daum Communications 
+# Date/time of export: 08/22/2013 14:53:37
+#
+# Bounding box of geometry = (201865,445863,-1.34304) to (201884,445883,26.8068).
+
+mtllib 4466030.mtl
+
+# Coordinates for object 'IndexedFaceSet'
+v  201864.859375 445877.843750 -1.343043 
+v  201864.984375 445878.156250 26.589895 
+v  201869.796875 445863.156250 26.739090 
+v  201870.281250 445863.250000 -1.183225 
+# 4 vertices
+
+vt 0.0 0.999717 0.0
+vt 0.005325 0.0 0.0
+vt 0.989313 1.000000 0.0
+vt 1.000000 0.000301 0.0
+# 4 texture vertices
+
+vn  -0.951996 -0.305607 -0.017541 
+vn  -0.937395 -0.348173 0.008090 
+# 2 normals
+
+usemtl surface
+
+o IndexedFaceSet
+g IndexedFaceSet
+
+s off
+f 1/1/2 4/2/2 2/3/2
+f 3/4/1 2/3/1 4/2/1
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #1'
+v  201878.656250 445882.593750 -1.275301 
+v  201878.796875 445882.906250 26.657637 
+v  201883.609375 445867.906250 26.806831 
+v  201884.093750 445868.000000 -1.115481 
+# 4 vertices
+
+vt 0.0 0.999717 0.0
+vt 0.005325 0.0 0.0
+vt 0.989313 1.000000 0.0
+vt 1.000000 0.000301 0.0
+# 4 texture vertices
+
+vn  0.937065 0.349048 -0.008623 
+vn  0.951996 0.305607 0.017541 
+# 2 normals
+
+usemtl surface
+
+o IndexedFaceSet__1_0
+g IndexedFaceSet__1_0
+
+s off
+f 6/7/4 7/8/4 8/6/4
+f 8/6/3 5/5/3 6/7/3
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #2'
+v  201864.984375 445878.156250 26.589895 
+v  201869.796875 445863.156250 26.739090 
+v  201878.796875 445882.906250 26.657637 
+v  201883.609375 445867.906250 26.806831 
+# 4 vertices
+
+vt 0.0 0.0 0.0
+vt 0.021783 1.000000 0.0
+vt 0.978216 0.0 0.0
+vt 1.000000 1.000000 0.0
+# 4 texture vertices
+
+vn  -0.007497 0.007540 0.999943 
+# 1 normals
+
+usemtl surface__2
+
+o IndexedFaceSet__2_0
+g IndexedFaceSet__2_0
+
+s off
+f 9/10/5 10/9/5 12/11/5
+f 12/11/5 11/12/5 9/10/5
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #3'
+v  201864.859375 445877.843750 -1.343043 
+v  201864.984375 445878.156250 26.589895 
+v  201878.656250 445882.593750 -1.275301 
+v  201878.796875 445882.906250 26.657637 
+# 4 vertices
+
+vt 0.0 0.0 0.0
+vt 0.006609 0.999987 0.0
+vt 0.993385 0.000017 0.0
+vt 1.000000 1.000000 0.0
+# 4 texture vertices
+
+vn  -0.325475 0.945507 -0.009121 
+vn  -0.325147 0.945621 -0.008942 
+# 2 normals
+
+usemtl surface__3
+
+o IndexedFaceSet__3_0
+g IndexedFaceSet__3_0
+
+s off
+f 15/14/6 13/13/6 14/15/6
+f 14/15/7 16/16/7 15/14/7
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #4'
+v  201869.796875 445863.156250 26.739090 
+v  201870.281250 445863.250000 -1.183225 
+v  201883.609375 445867.906250 26.806831 
+v  201884.093750 445868.000000 -1.115481 
+# 4 vertices
+
+vt 0.0 1.000000 0.0
+vt 0.024124 0.000031 0.0
+vt 0.975849 0.999882 0.0
+vt 1.000000 0.0 0.0
+# 4 texture vertices
+
+vn  0.325188 -0.945646 0.002466 
+# 1 normals
+
+usemtl surface__4
+
+o IndexedFaceSet__4_0
+g IndexedFaceSet__4_0
+
+s off
+f 18/18/8 20/20/8 19/19/8
+f 19/19/8 17/17/8 18/18/8
+# 2 polygons

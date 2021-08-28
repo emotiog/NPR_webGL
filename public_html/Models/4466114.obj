@@ -1,0 +1,450 @@
+# Converted by Daum Communications 
+# Date/time of export: 08/22/2013 14:53:38
+#
+# Bounding box of geometry = (201963,445389,-0.925334) to (201987,445414,12.498).
+
+mtllib 4466114.mtl
+
+# Coordinates for object 'IndexedFaceSet'
+v  201979.546875 445414.375000 -0.925333 
+v  201979.546875 445414.375000 11.018771 
+v  201987.000000 445394.906250 -0.915768 
+v  201987.000000 445394.906250 11.018774 
+# 4 vertices
+
+vt 0.0 0.999237 0.0
+vt 0.000193 0.000035 0.0
+vt 0.999804 1.000000 0.0
+vt 1.000000 0.0 0.0
+# 4 texture vertices
+
+vn  0.933905 0.357522 0.0 
+# 1 normals
+
+usemtl surface
+
+o IndexedFaceSet
+g IndexedFaceSet
+
+s off
+f 2/3/1 4/1/1 3/2/1
+f 3/2/1 1/4/1 2/3/1
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #1'
+v  201963.171875 445408.093750 -0.925334 
+v  201963.171875 445408.093750 11.018769 
+v  201970.609375 445388.656250 -0.915768 
+v  201970.609375 445388.656250 11.018772 
+# 4 vertices
+
+vt 0.0 0.999237 0.0
+vt 0.000193 0.000035 0.0
+vt 0.999804 1.000000 0.0
+vt 1.000000 0.0 0.0
+# 4 texture vertices
+
+vn  -0.933963 -0.357369 0.0 
+# 1 normals
+
+usemtl surface
+
+o IndexedFaceSet__1_0
+g IndexedFaceSet__1_0
+
+s off
+f 5/8/2 7/6/2 6/7/2
+f 8/5/2 6/7/2 7/6/2
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #2'
+v  201963.171875 445408.093750 -0.925334 
+v  201963.171875 445408.093750 11.018769 
+v  201979.546875 445414.375000 -0.925333 
+v  201979.546875 445414.375000 11.018771 
+# 4 vertices
+
+vt 0.0 0.0 0.0
+vt 0.000093 0.999572 0.0
+vt 0.999936 0.000322 0.0
+vt 1.000000 1.000000 0.0
+# 4 texture vertices
+
+vn  -0.358143 0.933667 0.0 
+# 1 normals
+
+usemtl surface__2
+
+o IndexedFaceSet__2_0
+g IndexedFaceSet__2_0
+
+s off
+f 10/12/3 12/10/3 9/11/3
+f 11/9/3 9/11/3 12/10/3
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #3'
+v  201963.171875 445408.093750 11.018769 
+v  201970.609375 445388.656250 11.018772 
+v  201979.546875 445414.375000 11.018771 
+v  201987.000000 445394.906250 11.018774 
+# 4 vertices
+
+vt 0.0 0.0 0.0
+vt 0.0 1.000000 0.0
+vt 1.000000 0.0 0.0
+vt 1.000000 1.000000 0.0
+# 4 texture vertices
+
+vn  0.0 0.0 1.0 
+# 1 normals
+
+usemtl surface__3
+
+o IndexedFaceSet__3_0
+g IndexedFaceSet__3_0
+
+s off
+f 13/13/4 14/15/4 15/14/4
+f 16/16/4 15/14/4 14/15/4
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #4'
+v  201970.609375 445388.656250 -0.915768 
+v  201970.609375 445388.656250 11.018772 
+v  201987.000000 445394.906250 -0.915768 
+v  201987.000000 445394.906250 11.018774 
+# 4 vertices
+
+vt 0.0 0.0 0.0
+vt 0.000093 0.999572 0.0
+vt 0.999936 0.000322 0.0
+vt 1.000000 1.000000 0.0
+# 4 texture vertices
+
+vn  0.356292 -0.934375 0.0 
+# 1 normals
+
+usemtl surface__2
+
+o IndexedFaceSet__4_0
+g IndexedFaceSet__4_0
+
+s off
+f 20/18/5 18/20/5 19/17/5
+f 17/19/5 19/17/5 18/20/5
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #5'
+v  201978.937500 445413.500000 11.043551 
+v  201978.937500 445413.500000 11.763207 
+v  201979.750000 445411.375000 11.043551 
+v  201979.750000 445411.375000 11.763207 
+# 4 vertices
+
+vt 0.0 0.0 0.0
+vt 0.0 1.000000 0.0
+vt 0.998809 0.0 0.0
+vt 1.000000 0.999990 0.0
+# 4 texture vertices
+
+vn  0.934052 0.357137 0.0 
+# 1 normals
+
+usemtl surface__4
+
+o IndexedFaceSet__5_0
+g IndexedFaceSet__5_0
+
+s off
+f 22/24/6 24/22/6 21/23/6
+f 23/21/6 21/23/6 24/22/6
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #6'
+v  201975.796875 445412.312500 11.043553 
+v  201975.796875 445412.312500 11.763208 
+v  201976.625000 445410.156250 11.043554 
+v  201976.625000 445410.156250 11.763208 
+# 4 vertices
+
+vt 0.0 0.0 0.0
+vt 0.0 1.000000 0.0
+vt 0.998809 0.0 0.0
+vt 1.000000 0.999990 0.0
+# 4 texture vertices
+
+vn  -0.933520 -0.358526 0.0 
+# 1 normals
+
+usemtl surface__4
+
+o IndexedFaceSet__6_0
+g IndexedFaceSet__6_0
+
+s off
+f 25/27/7 27/25/7 28/26/7
+f 28/26/7 26/28/7 25/27/7
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #7'
+v  201975.796875 445412.312500 11.763208 
+v  201976.625000 445410.156250 11.763208 
+v  201978.937500 445413.500000 11.763207 
+v  201979.750000 445411.375000 11.763207 
+# 4 vertices
+
+vt 0.0 0.0 0.0
+vt 0.0 1.000000 0.0
+vt 1.000000 0.0 0.0
+vt 1.000000 1.000000 0.0
+# 4 texture vertices
+
+vn  0.0 0.0 1.0 
+# 1 normals
+
+usemtl surface__5
+
+o IndexedFaceSet__7_0
+g IndexedFaceSet__7_0
+
+s off
+f 29/32/8 30/30/8 31/31/8
+f 32/29/8 31/31/8 30/30/8
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #8'
+v  201976.625000 445410.156250 11.043554 
+v  201976.625000 445410.156250 11.763208 
+v  201979.750000 445411.375000 11.043551 
+v  201979.750000 445411.375000 11.763207 
+# 4 vertices
+
+vt 0.0 0.002178 0.0
+vt 0.000012 1.000000 0.0
+vt 0.999988 0.0 0.0
+vt 1.000000 0.997848 0.0
+# 4 texture vertices
+
+vn  0.363345 -0.931655 0.0 
+# 1 normals
+
+usemtl surface__6
+
+o IndexedFaceSet__8_0
+g IndexedFaceSet__8_0
+
+s off
+f 36/36/9 34/34/9 33/33/9
+f 33/33/9 35/35/9 36/36/9
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #9'
+v  201975.796875 445412.312500 11.043553 
+v  201976.625000 445410.156250 11.043554 
+v  201978.937500 445413.500000 11.043551 
+v  201979.750000 445411.375000 11.043551 
+# 4 vertices
+
+vt 0.0 1.000000 0.0
+vt 0.000076 0.000063 0.0
+vt 0.999709 0.999922 0.0
+vt 1.000000 0.0 0.0
+# 4 texture vertices
+
+vn  0.0 0.0 -1.0 
+# 1 normals
+
+usemtl surface__7
+
+o IndexedFaceSet__9_0
+g IndexedFaceSet__9_0
+
+s off
+f 39/38/10 40/40/10 38/39/10
+f 38/39/10 37/37/10 39/38/10
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #10'
+v  201975.796875 445412.312500 11.043553 
+v  201975.796875 445412.312500 11.763208 
+v  201978.937500 445413.500000 11.043551 
+v  201978.937500 445413.500000 11.763207 
+# 4 vertices
+
+vt 0.0 0.0 0.0
+vt 0.000035 0.997322 0.0
+vt 0.999965 0.002582 0.0
+vt 1.000000 1.000000 0.0
+# 4 texture vertices
+
+vn  -0.353672 0.935369 0.0 
+# 1 normals
+
+usemtl surface__8
+
+o IndexedFaceSet__10_0
+g IndexedFaceSet__10_0
+
+s off
+f 44/42/11 43/41/11 41/43/11
+f 41/43/11 42/44/11 44/42/11
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #11'
+v  201983.171875 445402.750000 10.890365 
+v  201983.187500 445402.718750 12.497945 
+v  201984.046875 445400.468750 10.890367 
+v  201984.046875 445400.468750 12.497945 
+# 4 vertices
+
+vt 0.0 0.000030 0.0
+vt 0.000069 1.000000 0.0
+vt 0.994316 0.999951 0.0
+vt 1.000000 0.0 0.0
+# 4 texture vertices
+
+vn  0.933673 0.358121 -0.002113 
+vn  0.934179 0.356805 0.0 
+# 2 normals
+
+usemtl surface__9
+
+o IndexedFaceSet__11_0
+g IndexedFaceSet__11_0
+
+s off
+f 46/47/13 48/46/13 47/45/13
+f 47/45/12 45/48/12 46/47/12
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #12'
+v  201976.484375 445400.187500 10.890364 
+v  201976.500000 445400.156250 12.497944 
+v  201977.359375 445397.906250 10.890370 
+v  201977.359375 445397.906250 12.497951 
+# 4 vertices
+
+vt 0.0 0.000027 0.0
+vt 0.000055 1.000000 0.0
+vt 0.995566 0.999991 0.0
+vt 1.000000 0.0 0.0
+# 4 texture vertices
+
+vn  -0.934179 -0.356805 0.0 
+vn  -0.933673 -0.358121 0.002113 
+# 2 normals
+
+usemtl surface__10
+
+o IndexedFaceSet__12_0
+g IndexedFaceSet__12_0
+
+s off
+f 49/52/15 51/49/15 50/51/15
+f 52/50/14 50/51/14 51/49/14
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #13'
+v  201976.500000 445400.156250 12.497944 
+v  201977.359375 445397.906250 12.497951 
+v  201983.187500 445402.718750 12.497945 
+v  201984.046875 445400.468750 12.497945 
+# 4 vertices
+
+vt 0.0 0.500000 0.0
+vt 0.0 1.000000 0.0
+vt 0.999995 0.500000 0.0
+vt 1.000000 1.000000 0.0
+# 4 texture vertices
+
+vn  0.0 0.000003 1.0 
+# 1 normals
+
+usemtl surface__5
+
+o IndexedFaceSet__13_0
+g IndexedFaceSet__13_0
+
+s off
+f 53/55/16 54/56/16 56/54/16
+f 56/54/16 55/53/16 53/55/16
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #14'
+v  201977.359375 445397.906250 10.890370 
+v  201977.359375 445397.906250 12.497951 
+v  201984.046875 445400.468750 10.890367 
+v  201984.046875 445400.468750 12.497945 
+# 4 vertices
+
+vt 0.0 0.000573 0.0
+vt 0.000037 1.000000 0.0
+vt 0.999928 0.0 0.0
+vt 1.000000 0.999509 0.0
+# 4 texture vertices
+
+vn  0.357809 -0.933795 0.0 
+# 1 normals
+
+usemtl surface__11
+
+o IndexedFaceSet__14_0
+g IndexedFaceSet__14_0
+
+s off
+f 60/60/17 58/58/17 57/57/17
+f 57/57/17 59/59/17 60/60/17
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #15'
+v  201976.484375 445400.187500 10.890364 
+v  201977.359375 445397.906250 10.890370 
+v  201983.171875 445402.750000 10.890365 
+v  201984.046875 445400.468750 10.890367 
+# 4 vertices
+
+vt 0.0 0.0 0.0
+vt 0.000028 0.998584 0.0
+vt 0.999972 0.000846 0.0
+vt 1.000000 1.000000 0.0
+# 4 texture vertices
+
+vn  0.0 0.0 -1.0 
+# 1 normals
+
+usemtl surface__12
+
+o IndexedFaceSet__15_0
+g IndexedFaceSet__15_0
+
+s off
+f 63/63/18 64/64/18 61/61/18
+f 62/62/18 61/61/18 64/64/18
+# 2 polygons
+
+# Coordinates for object 'IndexedFaceSet #16'
+v  201976.484375 445400.187500 10.890364 
+v  201976.500000 445400.156250 12.497944 
+v  201983.171875 445402.750000 10.890365 
+v  201983.187500 445402.718750 12.497945 
+# 4 vertices
+
+vt 0.0 0.000573 0.0
+vt 0.000037 1.000000 0.0
+vt 0.999928 0.0 0.0
+vt 1.000000 0.999509 0.0
+# 4 texture vertices
+
+vn  -0.357726 0.933576 0.021625 
+# 1 normals
+
+usemtl surface__11
+
+o IndexedFaceSet__16_0
+g IndexedFaceSet__16_0
+
+s off
+f 66/66/19 68/68/19 65/65/19
+f 67/67/19 65/65/19 68/68/19
+# 2 polygons
